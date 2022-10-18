@@ -44,6 +44,9 @@ const Sidebar = () => {
           >
             <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
           </a> */}
+          {/* <a target="blank" rel="noreferrer" href="https://github.com/Senaddd">
+            <FontAwesomeIcon icon={faGitHub} color="#4d4d4e" />
+          </a> */}
         </li>
       </ul>
     </div>
